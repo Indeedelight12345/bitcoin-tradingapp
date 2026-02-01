@@ -1,0 +1,5 @@
+{
+  "name": "Bitcoin Market Monitor",
+  "description": "A secure frontend dashboard to monitor real-time Bitcoin market data such as price and trading volume from various exchanges.",
+  "requestFramePermissions": []
+}
